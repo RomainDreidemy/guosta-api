@@ -1,7 +1,5 @@
-import React from "react";
+import React from 'react';
 
-const Application = () => {
-    return <h1>Application root</h1>;
-}
+const Application = () => <h1>Application root</h1>;
 
 export default Application;
