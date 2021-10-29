@@ -1,5 +1,6 @@
 import React from 'react';
+import Router from './Router';
 
-const Application = () => <h1 className="bg-red-300">Application root</h1>;
+const Application = () => <Router />;
 
 export default Application;
