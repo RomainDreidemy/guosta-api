@@ -25,11 +25,13 @@
 }
 
 .login__container__form__group__input {
-    @apply block border-b-0 border-pink-300 w-full h-10}
+    @apply block border-b border-gray-300 w-full h-10}
 
 .login__container__form__group__input:focus {
-    @apply transition-all border-0 border-b
-}
+    @apply transition-all border-0 border-b}
 
 .login__container__form__group__submit {
     @apply block border border-pink-500 bg-pink-400 text-white w-full h-10 rounded}
+
+.login__container__form__group__error {
+    @apply text-red-400}

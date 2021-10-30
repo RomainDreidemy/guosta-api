@@ -14,12 +14,18 @@
     "webpack-notifier": "^1.6.0"
   },
   "dependencies": {
+    "@hookform/resolvers": "^2.8.2",
+    "axios": "^0.24.0",
+    "core-js": "^3.19.0",
     "postcss-import": "^14.0.2",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-hook-form": "^7.18.0",
     "react-router": "^5.2.1",
-    "react-router-dom": "^5.3.0"
+    "react-router-dom": "^5.3.0",
+    "react-spinners": "^0.11.0",
+    "yup": "^0.32.11"
   },
   "browserslist": [
     "> 0.5%",
